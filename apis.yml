@@ -44,6 +44,8 @@ apis:
       - type: Portal
         url: https://devapimportal.weyerhaeuser.com/products
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/weyerhaeuser
   - type: Website
     url: https://www.weyerhaeuser.com
   - type: DeveloperPortal
