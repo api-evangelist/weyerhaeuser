@@ -1,0 +1,159 @@
+vocabulary:
+  name: Weyerhaeuser Industrial Vocabulary
+  description: >-
+    Key concepts, objects, and domain terms for Weyerhaeuser's forestry,
+    wood products manufacturing, and API integration ecosystem.
+  version: "1.0.0"
+  terms:
+    - term: Timberlands
+      definition: >-
+        Managed forest acreage owned or operated by Weyerhaeuser for the growing
+        and harvesting of trees. Weyerhaeuser manages approximately 10.4 million
+        acres in the U.S. and holds management rights over 14 million additional
+        acres in Canada.
+      tags:
+        - forestry
+        - land-management
+        - operations
+
+    - term: Engineered Lumber
+      definition: >-
+        Manufactured structural wood products produced by combining wood strands,
+        veneers, or other wood elements with adhesives to form composite materials
+        with enhanced structural properties. Includes I-joists, LVL (Laminated
+        Veneer Lumber), and TimberStrand products.
+      tags:
+        - wood-products
+        - manufacturing
+        - construction
+
+    - term: Oriented Strand Board (OSB)
+      definition: >-
+        Engineered wood panel product manufactured by layering strands of wood in
+        specific orientations and binding them with resin under heat and pressure.
+        Used in wall sheathing, roof decking, and subfloor applications.
+      tags:
+        - wood-products
+        - manufacturing
+        - panels
+
+    - term: Customer Connect Portal
+      definition: >-
+        Weyerhaeuser's digital ordering and account management platform for wood
+        products customers, providing order placement, order status tracking,
+        railcar tracking, and inventory search capabilities.
+      tags:
+        - portal
+        - ordering
+        - customer-service
+
+    - term: API Management Portal (APIM)
+      definition: >-
+        Azure API Management-powered developer portal at apimportal.weyerhaeuser.com
+        that enables partners and customers to discover, learn about, and
+        interactively test Weyerhaeuser APIs with auto-generated documentation
+        and multi-language code samples.
+      tags:
+        - api
+        - developer-portal
+        - integration
+
+    - term: Wood Products Order
+      definition: >-
+        A purchase transaction for Weyerhaeuser lumber, engineered wood, OSB,
+        or plywood products. Orders contain product type, grade, species,
+        dimensions, quantity, destination, and shipping method attributes.
+      tags:
+        - ordering
+        - supply-chain
+        - e-commerce
+
+    - term: Railcar Tracking
+      definition: >-
+        Shipment tracking capability within the Customer Connect Portal that
+        allows customers to monitor the location and status of rail freight
+        cars carrying Weyerhaeuser wood products to their destinations.
+      tags:
+        - logistics
+        - tracking
+        - supply-chain
+
+    - term: Silviculture
+      definition: >-
+        The science and practice of controlling the growth, composition, and
+        quality of forest stands. Weyerhaeuser employs silviculture planning
+        as part of its sustainable timberlands management program.
+      tags:
+        - forestry
+        - land-management
+        - sustainability
+
+    - term: Digital Twin
+      definition: >-
+        An AI-driven digital representation of Weyerhaeuser's physical timberlands
+        operations used to optimize harvest decisions, crew efficiency, and
+        resource allocation across millions of managed forest acres.
+      tags:
+        - ai
+        - operations
+        - innovation
+
+    - term: ForteWEB
+      definition: >-
+        Weyerhaeuser's web-based structural engineering software that allows
+        building professionals to size, specify, and design floor and roof
+        systems using Weyerhaeuser engineered lumber products.
+      tags:
+        - software
+        - engineering
+        - integration
+
+    - term: Subscription Key
+      definition: >-
+        An authentication credential issued through the Weyerhaeuser APIM portal
+        that authorizes API consumers to access one or more API products. Managed
+        via Azure API Management subscription workflows.
+      tags:
+        - api
+        - authentication
+        - security
+
+    - term: Mill Location
+      definition: >-
+        A Weyerhaeuser manufacturing facility where wood products are produced.
+        Mill location codes are used in ordering and logistics APIs to identify
+        origin points for shipments.
+      tags:
+        - manufacturing
+        - logistics
+        - operations
+
+    - term: Harvest Unit
+      definition: >-
+        A defined geographic area of timberlands designated for a timber harvest
+        operation. Harvest units are tracked in forest management systems with
+        attributes including acreage, species composition, and scheduled harvest date.
+      tags:
+        - forestry
+        - operations
+        - land-management
+
+    - term: Plywood
+      definition: >-
+        A manufactured wood panel consisting of thin sheets (plies) of wood veneer
+        glued together with alternating grain directions for dimensional stability.
+        Produced at Weyerhaeuser's plywood mills for construction and industrial use.
+      tags:
+        - wood-products
+        - manufacturing
+        - panels
+
+    - term: Supply Chain Integration
+      definition: >-
+        API-based connectivity between Weyerhaeuser's internal systems (SAP ERP,
+        order management, inventory) and partner/customer platforms for automated
+        procurement, forecasting, invoicing, and logistics coordination.
+      tags:
+        - api
+        - integration
+        - supply-chain

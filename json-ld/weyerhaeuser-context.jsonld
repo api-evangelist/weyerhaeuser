@@ -1,0 +1,139 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "wey": "https://apimportal.weyerhaeuser.com/vocab#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Organization": "schema:Organization",
+    "name": "schema:name",
+    "url": "schema:url",
+    "description": "schema:description",
+    "industry": "schema:industry",
+    "foundingDate": "schema:foundingDate",
+    "areaServed": "schema:areaServed",
+    "sameAs": "schema:sameAs",
+
+    "Timberlands": {
+      "@id": "wey:Timberlands",
+      "@type": "@id"
+    },
+    "WoodProduct": {
+      "@id": "wey:WoodProduct",
+      "@type": "@id"
+    },
+    "EngineeredLumber": {
+      "@id": "wey:EngineeredLumber",
+      "@type": "@id"
+    },
+    "OrientedStrandBoard": {
+      "@id": "wey:OrientedStrandBoard",
+      "@type": "@id"
+    },
+    "Plywood": {
+      "@id": "wey:Plywood",
+      "@type": "@id"
+    },
+    "Order": {
+      "@id": "wey:Order",
+      "@type": "@id"
+    },
+    "Shipment": {
+      "@id": "wey:Shipment",
+      "@type": "@id"
+    },
+    "SupplyChain": {
+      "@id": "wey:SupplyChain",
+      "@type": "@id"
+    },
+    "CustomerConnect": {
+      "@id": "wey:CustomerConnect",
+      "@type": "@id"
+    },
+    "APIManagement": {
+      "@id": "wey:APIManagement",
+      "@type": "@id"
+    },
+    "HarvestUnit": {
+      "@id": "wey:HarvestUnit",
+      "@type": "@id"
+    },
+    "ForestInventory": {
+      "@id": "wey:ForestInventory",
+      "@type": "@id"
+    },
+
+    "productType": {
+      "@id": "wey:productType",
+      "@type": "xsd:string"
+    },
+    "species": {
+      "@id": "wey:species",
+      "@type": "xsd:string"
+    },
+    "grade": {
+      "@id": "wey:grade",
+      "@type": "xsd:string"
+    },
+    "thickness": {
+      "@id": "wey:thickness",
+      "@type": "xsd:decimal"
+    },
+    "width": {
+      "@id": "wey:width",
+      "@type": "xsd:decimal"
+    },
+    "length": {
+      "@id": "wey:length",
+      "@type": "xsd:decimal"
+    },
+    "quantity": {
+      "@id": "wey:quantity",
+      "@type": "xsd:integer"
+    },
+    "orderStatus": {
+      "@id": "wey:orderStatus",
+      "@type": "xsd:string"
+    },
+    "shipmentTracking": {
+      "@id": "wey:shipmentTracking",
+      "@type": "xsd:string"
+    },
+    "railcarNumber": {
+      "@id": "wey:railcarNumber",
+      "@type": "xsd:string"
+    },
+    "millLocation": {
+      "@id": "wey:millLocation",
+      "@type": "xsd:string"
+    },
+    "acreage": {
+      "@id": "wey:acreage",
+      "@type": "xsd:decimal"
+    },
+    "harvestSchedule": {
+      "@id": "wey:harvestSchedule",
+      "@type": "xsd:string"
+    },
+    "subscriptionKey": {
+      "@id": "wey:subscriptionKey",
+      "@type": "xsd:string"
+    }
+  },
+
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "Weyerhaeuser",
+      "url": "https://www.weyerhaeuser.com",
+      "description": "One of the world's largest private owners and managers of timberlands, manufacturing forest products including engineered lumber, OSB, plywood, and lumber.",
+      "industry": "Forestry and Wood Products Manufacturing",
+      "foundingDate": "1900",
+      "areaServed": "United States, Canada",
+      "sameAs": [
+        "https://www.linkedin.com/company/weyerhaeuser",
+        "https://apimportal.weyerhaeuser.com/"
+      ]
+    }
+  ]
+}
