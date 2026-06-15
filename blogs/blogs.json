@@ -2,6 +2,13 @@
   "repo": "weyerhaeuser",
   "feeds": [
     {
+      "source": "https://www.weyerhaeuser.com/blog",
+      "feed_url": "https://www.weyerhaeuser.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://devapimportal.weyerhaeuser.com/signup",
       "feed_url": "https://devapimportal.weyerhaeuser.com/signup",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "none"
     }
   ],
-  "fetched": "2026-06-01T23:35:02Z",
+  "fetched": "2026-06-14T20:42:17Z",
   "post_count": 0
 }
