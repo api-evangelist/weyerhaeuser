@@ -53,7 +53,7 @@ common:
     url: https://apimportal.weyerhaeuser.com/
   - type: Portal
     url: https://www.weyerhaeuser.com/woodproducts/customer-connect/customer-connect-portal-resources/
-  - type: SignUp
+  - type: Signup
     url: https://devapimportal.weyerhaeuser.com/signup
   - type: Blog
     url: https://www.weyerhaeuser.com/blog
