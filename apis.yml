@@ -45,6 +45,8 @@ apis:
       - type: Portal
         url: https://devapimportal.weyerhaeuser.com/products
 common:
+  - type: DomainSecurity
+    url: security/weyerhaeuser-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/weyerhaeuser
   - type: Website
