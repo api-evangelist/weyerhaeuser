@@ -2,13 +2,14 @@
   "repo": "weyerhaeuser",
   "feeds": [
     {
-      "source": "https://www.weyerhaeuser.com/blog",
-      "feed_url": "",
+      "source": "https://devapimportal.weyerhaeuser.com/signup",
+      "feed_url": "https://devapimportal.weyerhaeuser.com/signup",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:22:18Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0,
-  "agent_pulled": "2026-06-27"
+  "agent_pulled": "2026-07-04"
 }
