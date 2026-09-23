@@ -1,7 +1,9 @@
 ---
 title: Using Artificial Intelligence to Fine-Tune the Dryers at Our ...
 url: https://www.weyerhaeuser.com/blog/innovation-sutton-osb-mill-ai-power/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weyerhaeuser" press release artificial intelligence'
 position: 5
 source: serpapi-google

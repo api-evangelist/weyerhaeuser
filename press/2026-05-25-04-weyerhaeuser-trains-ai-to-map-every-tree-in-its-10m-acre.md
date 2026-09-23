@@ -1,7 +1,9 @@
 ---
 title: Weyerhaeuser Trains AI to Map Every Tree in its 10M-Acre ...
 url: https://woodcentral.com.au/weyerhaeuser-trains-ai-to-map-every-tree-in-its-10m-acre-estate/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weyerhaeuser" press release artificial intelligence'
 position: 4
 source: serpapi-google

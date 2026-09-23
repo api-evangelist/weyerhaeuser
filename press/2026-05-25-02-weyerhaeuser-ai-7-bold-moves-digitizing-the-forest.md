@@ -1,7 +1,9 @@
 ---
 title: 'Weyerhaeuser AI: 7 bold moves digitizing the forest'
 url: https://www.progressiverobot.com/2026/04/24/weyerhaeuser-ai-forest-digitization/
-date: '2026-05-25'
+published: '2026-04-24'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Weyerhaeuser" press release artificial intelligence'
 position: 2
 source: serpapi-google

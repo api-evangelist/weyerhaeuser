@@ -1,7 +1,9 @@
 ---
 title: Weyerhaeuser targets $1 billion profit gain with AI forestry ...
 url: https://www.nipimpressions.com/weyerhaeuser-targets-1-billion-profit-gain-with-ai-forestry-tools-cms-20306
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weyerhaeuser" press release artificial intelligence'
 position: 3
 source: serpapi-google
